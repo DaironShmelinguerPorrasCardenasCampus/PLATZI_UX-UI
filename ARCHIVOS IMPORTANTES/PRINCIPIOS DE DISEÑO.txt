@@ -35,3 +35,44 @@ HEURISTICOS: BASE DE ESTRATEGIAS DERIVADAS DE LA EXPERIENCIA - SON REGLAS
 
 1.5 LEY DE MILLER
  UNA PERSONA PROMEDIO PUEDE MANTENER ENTRE 5 A 9 ELEMENTOS EN SU MEMORIA DE TRABAJO.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2. Principios heurísticos de relación y jerarquía
+Heurística
+Relación y jerarquía
+Ley de las regiones comunes
+
+Los elementos tienden a percibirse en grupo
+Ley de la proximidad
+
+Los elementos que se encuentren cerca, se perciben como si fuera un grupo
+Ley de la similitud
+
+Se percibe los elementos que se parecen como uno aunque estén separados por distancia y grupos
+Ley de conectividad uniforme
+
+Los elementos que están conectados visualmente se perciben más unidos
+Ley Densidad proposicional
+
+La relación que tienen los elementos en un diseño le da su significado
+Principio de las capas
+
+Organizar la información en grupo relacionados ayuda a digerir la información
+Principio de la jerarquía
+
+La organización jerárquica es la estructura más simple para visualizar y comprender la complejidad
+Principio de la continuidad
+
+Los elementos dispuestos en linea recta o en la misma curva se ven como un mismo elemento
+Organización de la información
+
+5 formas de organizar la información
+Categoría
+Tiempo
+Ubicación
+Alfabeto
+Continuo
+Principio de la alineación
+
+Alinear los elementos a un eje en común ayuda a la legibilidad
