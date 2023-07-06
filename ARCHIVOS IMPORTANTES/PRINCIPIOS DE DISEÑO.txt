@@ -76,3 +76,35 @@ Continuo
 Principio de la alineación
 
 Alinear los elementos a un eje en común ayuda a la legibilidad
+-----------------------------------------------------------------------------------------------------------
+Principios heurísticos de forma I
+
+La forma sigue la función: Los diseños estéticamente agradables deben ser el resultado de decisiones racionales que tomamos para integrar significado e intención a nuestro trabajo.
+
+Ley de Pragnanz: Las personas percibirán e interpretarán imágenes ambiguas o complejas, de la forma más simple posible; ya que requiere menos esfuerzo cognitivo.
+
+Sesgo de iluminación de arriba hacia abajo: Tendencia a interpretar las áreas sombreadas u obscuras de un objeto como sombras resultantes de una fuente de luz sobre el mismo.
+
+Proyección tridimiensional: Tendencia a ver patrones tridimensionales, cuando ciertas señales visuales están presentes. Ejemplo: Interposición, tamaño, perspectiva.
+
+Simetría: Equivalencia visual entre los elementos de una composición o forma.
+
+Relación señal a ruido: Proporción de información importante, si es relevante o no en la pantalla.
+
+Regla de los tercios: Técnica de composición usada especialmente en fotografía.
+
+Legibilidad: La claridad visual del texto está basado en tamaño, tipo de letra, contraste, alineación, espaciados, etc.
+
+-----------------------------------------------------------------------------------------------------------
+
+Principios heurísticos de forma II
+
+Iconos: El uso de imágenes pictóricas, nos ayuda a mejorar el reconocimiento y recuerdo de las señales.
+
+Remarcar: Técnica para llamar la atención sobre un área de texto o imagen.
+
+Ratio de oro / Golden ratio / Proporción áurea: Nos habla de la relación entre el tamaño de los elementos. Se suele decir que la proporción entre los elementos debería dar como resultado una constante matemática (1,618)
+
+Profundidad de procesamiento: La información que se analiza profundamente se recuerda mejor que la información que se realiza superficialmente.
+
+Sesgo de contorno: Visualmente, existe una preferencia en preferir objetos con contornos redondeados, en vez de objetos con ángulos agudos.
