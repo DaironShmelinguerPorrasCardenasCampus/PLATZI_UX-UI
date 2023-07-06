@@ -108,3 +108,23 @@ Ratio de oro / Golden ratio / Proporción áurea: Nos habla de la relación entr
 Profundidad de procesamiento: La información que se analiza profundamente se recuerda mejor que la información que se realiza superficialmente.
 
 Sesgo de contorno: Visualmente, existe una preferencia en preferir objetos con contornos redondeados, en vez de objetos con ángulos agudos.
+
+-----------------------------------------------------------------------------------------------------------
+
+Principios Heuriticos de Interación
+
+Umbral de Doherty: La productividad se dispara cuando una computadora y su usuario interactúan a un ritmo menos a 400 milisengundos, muchas veces no se podra definir este tiempo y para ello utilizamos herramientas como intros, animaciones, efectos de carga etc.
+
+Ley fe Fitts: El tiempo para adquirir un objetivo es una funcion de la distancia y tamaño del objetivo
+
+Ley de Jakob: Los usuarios pasan la mayor parte de su tiempo en otros sitios. Los usuarios prefieren que tus sitios sean similares a los que ya usan. Trata de usar patrones conocidos en vez de innovar
+
+Entrenamiento: Una técnica para enseñar al usuario como usar nuestra app, muy similar a los videojuegos en los primeros minutos, aunque estes jugando la interfaz esta diseñada para entrenarte mientras te hace creer que estas jugando
+
+Descubrimiento progresivo: Solo se muestra la información necesaria en un momento dado.
+
+Mapeo: Existe una relación entre los controles y sus movimientos y efectos y un buen mapeo da resultado una mayor facilidad de uso
+
+Destino común: Las cosas que se mueven en el mismo sentido parecen estar mucho más agrupadas de las que se mueven en sentido contrario
+
+Affordance: Son todas las posibilidades que materialmente ofrece un objeto para reconocer como usarlo
